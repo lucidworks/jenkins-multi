@@ -1,4 +1,4 @@
-node {
+node('n2') {
    // Mark the code checkout 'stage'....
    stage 'Checkout'
 
