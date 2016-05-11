@@ -1,5 +1,5 @@
 node('n2') {
-   // Mark the code checkout 'stage'....
+   // Mark the code checkout 'stage'.....
    stage 'Checkout'
 
    // Checkout code from repository
